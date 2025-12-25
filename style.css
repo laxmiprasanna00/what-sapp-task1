@@ -48,7 +48,7 @@ i{
     color: rgb(58, 58, 58);
     border-radius: 50px ;
     position: fixed;
-    bottom: 10%;
+    bottom: 6%;
     margin-left: 10px;
     z-index: 1;
 
@@ -63,7 +63,7 @@ i{
     color: white;
     padding: 4px;
     position: fixed;
-    bottom: 10%;
+    bottom: 6%;
     margin-left: 343px;
     z-index: 1;
 }
